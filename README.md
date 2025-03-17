@@ -21,6 +21,28 @@
 -NETWORK
   - 01_네트워크에서_패킷이란_무엇을_의미하나요?.md
 ```
+  - md파일의 양식은 아래와 같습니다. (#이 있는 부분만 수정해주세요)
+  - 아래 형식을 지키는 이유는 이후 블로그 형식으로 배포 해보는 방식을 고려하고 있기 때문입니다.
+```
+---
+layout: post
+title: 트워크에서 패킷이란? #본인이 생각하는 제목을 작성해주세요
+author: haeran #본인의 이름을 넣어주세요
+date: 2025-02-18 21:07:00 +0900 #날짜와 시간을 수정해주세요
+categories: [NETWORK] #큰 주제를 여기 넣어주세요
+banner:
+  image: https://velog.velcdn.com/images/sangje112/post/54eb73ca-985a-42ee-aba0-e1439edd466e/image.png #배너로 등록하고 싶은 이미지 링크를 첨부해주세요
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: [NETWORK, Packet] #대주제, 소주제를 자유롭게 넣어주세요. 가장 앞글자는 대문자로 부탁드립니다.
+---
+
+# 아래는 내용을 적습니다.
+```
 
 ### 진행 질문 리스트
 
