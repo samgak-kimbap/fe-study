@@ -28,4 +28,5 @@ TCP/IP는 **Transmission Control Protocol(전송 제어 프로토콜)**과
 
 TCP/IP는 인터넷의 핵심 프로토콜로, 다양한 클라이언트 및 서버 시스템에서 원활한 통신을 가능하게 합니다.
 
+![MAC](./images/06_TCP_IP란.png)
 [이미지 출처]: https://hahahoho5915.tistory.com/15
