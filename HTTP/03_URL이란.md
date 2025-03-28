@@ -1,3 +1,18 @@
+---
+layout: post
+title: URL 이란?
+author: jyservice781 
+date: 2025-03-27 21:07:00 +0900 
+categories: [HTTP]
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: [HTTP]
+---
 
 ## URL이란?
 

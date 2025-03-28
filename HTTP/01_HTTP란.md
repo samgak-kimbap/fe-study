@@ -1,3 +1,19 @@
+---
+layout: post
+title: HTTP란 무엇인가?
+author: jyservice781 
+date: 2025-03-27 21:07:00 +0900 
+categories: [HTTP]
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: [HTTP]
+---
+
 ## HTTP란?
 
 **HTTP(HyperText Transfer Protocol, 하이퍼텍스트 전송 프로토콜)**은 웹에서 데이터를 주고받을 때 사용하는 **통신 규약(Protocol)**입니다.  

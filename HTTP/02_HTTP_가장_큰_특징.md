@@ -1,3 +1,19 @@
+---
+layout: post
+title: HTTP의 가장 큰 특징?
+author: jyservice781 
+date: 2025-03-27 21:07:00 +0900 
+categories: [HTTP]
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: [HTTP]
+---
+
 ## HTTP 프로토콜의 가장 큰 특징
 
 한 가지로 꼽자면 **“무상태성(Stateless)”** 입니다.
