@@ -16,7 +16,7 @@ tags: [HTTP]
 
 ## HTTP란?
 
-**HTTP(HyperText Transfer Protocol, 하이퍼텍스트 전송 프로토콜)**은 웹에서 데이터를 주고받을 때 사용하는 **통신 규약(Protocol)**입니다.  
+**HTTP(HyperText Transfer Protocol, 하이퍼텍스트 전송 프로토콜)** 은 웹에서 데이터를 주고받을 때 사용하는 **통신 규약(Protocol)** 입니다.  
 우리가 브라우저에서 웹사이트를 방문할 때, HTTP를 사용하여 웹 서버와 데이터를 주고받습니다.
 
 ---
