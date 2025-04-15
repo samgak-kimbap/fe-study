@@ -46,6 +46,12 @@ tags: [NETWORK, Packet] #대주제, 소주제를 자유롭게 넣어주세요. �
      
 ## 진행 리스트
 
-- [2025-03-25 (화) 1회차](https://github.com/samgak-kimbap/fe-study/issues/3)
-- [2025-03-28 (금) 2회차](https://github.com/samgak-kimbap/fe-study/issues/4)
-- [2025-04-01 (금) 3회차](https://github.com/samgak-kimbap/fe-study/issues/5)
+- [2025-03-25 (화) 1회차 / 네트워크](https://github.com/samgak-kimbap/fe-study/issues/3)
+- [2025-03-28 (금) 2회차 / HTTP](https://github.com/samgak-kimbap/fe-study/issues/4)
+- [2025-04-01 (화) 3회차 / 운영체제](https://github.com/samgak-kimbap/fe-study/issues/5)
+- [2025-04-04 (금) 4회차 / 프로세스와 스레드](https://github.com/samgak-kimbap/fe-study/issues/6)
+- [2025-04-08 (화) 5회차 / 싱글 스레드와 멀티 스레드, 공유자원 임계 영역 교착 상태](https://github.com/samgak-kimbap/fe-study/issues/7)
+- [2025-04-11 (금) 6회차 / 쿠키, 세션, JWT, CORS](https://github.com/samgak-kimbap/fe-study/issues/8)
+- [2025-04-15 (화) 7회차 / 캐시, CDN](https://github.com/samgak-kimbap/fe-study/issues/9)
+- [2025-04-18 (금) 8회차 / 테스트, 웹팩, 타입과 인터페이스](https://github.com/samgak-kimbap/fe-study/issues/10)
+- [2025-04-22 (화) 9회차 / JAVASCRIPT - 프로그래밍, 자바스크립트란, 변수, 데이터 타입, 타입변환과 단축 평가](https://github.com/samgak-kimbap/fe-study/issues/11)
