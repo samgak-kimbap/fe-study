@@ -53,5 +53,5 @@ tags: [NETWORK, Packet] #대주제, 소주제를 자유롭게 넣어주세요. �
 - [2025-04-08 (화) 5회차 / 싱글 스레드와 멀티 스레드, 공유자원 임계 영역 교착 상태](https://github.com/samgak-kimbap/fe-study/issues/7)
 - [2025-04-11 (금) 6회차 / 쿠키, 세션, JWT, CORS](https://github.com/samgak-kimbap/fe-study/issues/8)
 - [2025-04-15 (화) 7회차 / 캐시, CDN](https://github.com/samgak-kimbap/fe-study/issues/9)
-- [2025-04-18 (금) 8회차 / 테스트, 웹팩, 타입과 인터페이스](https://github.com/samgak-kimbap/fe-study/issues/10)
+- [2025-04-17 (목) 8회차 / 테스트, 웹팩, 타입과 인터페이스](https://github.com/samgak-kimbap/fe-study/issues/10)
 - [2025-04-22 (화) 9회차 / JAVASCRIPT - 프로그래밍, 자바스크립트란, 변수, 데이터 타입, 타입변환과 단축 평가](https://github.com/samgak-kimbap/fe-study/issues/11)
